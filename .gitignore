@@ -1,0 +1,12 @@
+# Python and Jupyter generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
