@@ -1,0 +1,9 @@
+﻿Maze,Status,Path_cost,Iterations,Limit_increases,Total_expanded,Max_frontier
+small,FOUND,19.0,20,19,1051,20
+medium,LIMIT_REACHED,,63,62,12000,63
+large,LIMIT_REACHED,,95,94,12000,94
+open,LIMIT_REACHED,,10,9,5555,10
+L,LIMIT_REACHED,,8,7,4828,8
+loops,LIMIT_REACHED,,17,16,8326,17
+empty,LIMIT_REACHED,,9,8,5060,9
+empty_maze_2,LIMIT_REACHED,,9,8,5060,9

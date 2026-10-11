@@ -1,0 +1,17 @@
+﻿maze,algorithm,path_cost,expanded_nodes,max_frontier,max_depth,solved,order
+small,BFS,19,92,9,19,True,NESW
+small,DFS,29,39,5,28,True,NESW
+medium,BFS,68,269,9,68,True,NESW
+medium,DFS,152,153,8,151,True,NESW
+L,BFS,16,151,17,16,True,NESW
+L,DFS,122,132,109,121,True,NESW
+large,BFS,210,621,8,210,True,NESW
+large,DFS,210,337,38,214,True,NESW
+open,BFS,54,682,25,53,True,NESW
+open,DFS,,30000,155,178,False,NESW
+loops,BFS,23,71,8,22,True,NESW
+loops,DFS,27,30,12,26,True,NESW
+empty,BFS,14,95,12,14,True,NESW
+empty,DFS,80,80,73,79,True,NESW
+empty_maze_2,BFS,14,95,11,14,True,NESW
+empty_maze_2,DFS,34,34,42,33,True,NESW

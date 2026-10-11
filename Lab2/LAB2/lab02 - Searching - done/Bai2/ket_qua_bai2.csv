@@ -1,0 +1,9 @@
+﻿maze,n,d_BFS,m_DFS_observed,m_upper_simple,b
+small,94,19,48,93,3
+medium,274,68,164,273,3
+large,647,210,222,646,4
+open,684,54,476,683,4
+L,157,16,111,156,4
+loops,72,23,42,71,4
+empty,100,14,99,99,4
+empty_maze_2,100,14,81,99,4

@@ -1,0 +1,5 @@
+﻿Maze,Status,Path length,Nodes expanded,Max depth,Max frontier,Time (ms)
+small,FOUND,19,92,20,9,0.341
+large,FOUND,210,621,211,8,1.841
+open,FOUND,54,682,54,25,2.334
+empty,FOUND,14,95,15,12,0.323

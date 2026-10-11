@@ -1,0 +1,9 @@
+LAB 02 - BAI 2: MO HINH HOA BAI TOAN ME CUNG
+
+1. Giai nen tat ca cac tap tin trong ZIP vao cung mot thu muc.
+2. Mo Ex3_Show_all_mazes_Bai2_Hoan_thien.ipynb bang Jupyter / VS Code / Google Colab.
+3. Chon Restart & Run All (Python kernel).
+4. Dau vao: 8 file *maze*.txt va maze_helper.py.
+5. File large_maze(1).txt da duoc doi ten thanh large_maze.txt trong ZIP de phu hop notebook goc.
+6. Notebook da duoc chay thu tu dau den cuoi. Dinh nghia m: m_DFS la can duoi thuc nghiem cua duong di khong lap; m_upper la gioi han tren so nut reachable - 1; khong phai m chinh xac.
+7. ket_qua_bai2.csv la bang tong hop tu ket qua thuc nghiem.

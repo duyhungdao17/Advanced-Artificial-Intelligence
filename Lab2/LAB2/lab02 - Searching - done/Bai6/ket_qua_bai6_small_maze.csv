@@ -1,0 +1,8 @@
+﻿Algorithm,Heuristic,Path cost,Nodes expanded,Max frontier
+BFS,–,19,92,9
+GBFS,Manhattan,29,39,5
+GBFS,Euclidean,29,39,5
+GBFS,Chebyshev,29,54,4
+A*,Manhattan,19,49,8
+A*,Euclidean,19,56,7
+A*,Chebyshev,19,56,6

@@ -1,0 +1,31 @@
+﻿Maze,Algorithm,Heuristic,w,Path cost,Nodes expanded,Max frontier,Max depth
+small,BFS,—,1,19,92,9,19
+small,GBFS,Manhattan,1,29,39,5,28
+small,A*,Euclidean,1,19,55,7,18
+small,A*,Manhattan,1,19,51,7,18
+small,Weighted A*,Manhattan,2,19,59,5,18
+small,Weighted A*,Manhattan,5,29,41,5,28
+medium,BFS,—,1,68,269,9,68
+medium,GBFS,Manhattan,1,152,155,8,151
+medium,A*,Euclidean,1,68,224,8,67
+medium,A*,Manhattan,1,68,217,8,67
+medium,Weighted A*,Manhattan,2,68,227,8,71
+medium,Weighted A*,Manhattan,5,102,226,10,101
+L,BFS,—,1,16,151,17,16
+L,GBFS,Manhattan,1,16,42,32,15
+L,A*,Euclidean,1,16,62,27,15
+L,A*,Manhattan,1,16,40,29,15
+L,Weighted A*,Manhattan,2,16,40,32,15
+L,Weighted A*,Manhattan,5,16,42,32,15
+open,BFS,—,1,54,682,25,53
+open,GBFS,Manhattan,1,54,772,64,57
+open,A*,Euclidean,1,54,516,51,53
+open,A*,Manhattan,1,54,211,185,53
+open,Weighted A*,Manhattan,2,54,435,64,53
+open,Weighted A*,Manhattan,5,54,633,64,54
+large,BFS,—,1,210,621,8,210
+large,GBFS,Manhattan,1,210,456,25,209
+large,A*,Euclidean,1,210,554,10,209
+large,A*,Manhattan,1,210,542,12,209
+large,Weighted A*,Manhattan,2,210,498,19,209
+large,Weighted A*,Manhattan,5,210,480,23,209
