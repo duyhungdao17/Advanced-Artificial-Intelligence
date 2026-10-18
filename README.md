@@ -39,6 +39,17 @@ Các bài thực hành trong repository tập trung vào **tác tử thông minh
 │           ├── 02_Notebooks/
 │           ├── 03_Source_Data/
 │           └── 04_Results/
+├── Lab3/
+│   ├── Theory/                       # Bài tập CSP
+│   └── Lab/
+│       ├── lab03 - local search/     # Notebook và dữ liệu mẫu
+│       ├── lab03 - solution/         # Lời giải từng bài
+│       └── lab03_localsearch_search_daoduyhung_3122410158/
+│           ├── 1_Report/
+│           ├── 2_Notebooks/
+│           ├── 3_Data/
+│           ├── 4_Images/
+│           └── 5_Supports/
 ├── Artificial Intelligence A Modern Approach 4th.pdf
 └── 2024 - Liu - AlphaGo Simplified Rule-Based AI and Deep Learning in Everyday Games.pdf
 ```
@@ -61,6 +72,12 @@ Các bài thực hành trong repository tập trung vào **tác tử thông minh
 - **EX1:** bài tập về tìm kiếm AI, tìm kiếm heuristic và bài giải dạng PDF.
 - **LAB2:** thực hành tìm kiếm trên cây và mê cung; so sánh BFS, DFS, A*, tìm kiếm theo độ sâu và các heuristic.
 - Bài làm tổng hợp gồm [báo cáo, notebook, dữ liệu và kết quả thực nghiệm](Lab2/LAB2/lab02_search_DaoDuyHung_3122410158/README.md).
+
+### Lab 3 — Local Search
+
+- **Theory:** bài tập về bài toán thỏa mãn ràng buộc (CSP).
+- **Lab:** áp dụng tìm kiếm cục bộ cho mê cung, n-Queens và bài toán người du lịch (TSP); thực nghiệm hill climbing, random restart, simulated annealing và các lịch giảm nhiệt.
+- [Bài làm tổng hợp](Lab3/Lab/lab03_localsearch_search_daoduyhung_3122410158/) gồm báo cáo PDF, notebook, dữ liệu CSV, biểu đồ và tệp hỗ trợ. [Lời giải từng bài](Lab3/Lab/lab03%20-%20solution/) nằm trong các thư mục `Bai1` đến `Bai8`.
 
 ## Yêu cầu môi trường
 
@@ -89,7 +106,15 @@ pip install jupyter numpy matplotlib gymnasium
    jupyter notebook
    ```
 
-3. Mở notebook trong `Lab1/` hoặc `Lab2/LAB2/lab02_search_DaoDuyHung_3122410158/02_Notebooks/` và chạy lần lượt các cell. Với Lab 2, đặt thư mục làm việc tại `02_Notebooks` để notebook tìm thấy các tệp `.py` và `.txt` đi kèm.
+3. Mở notebook trong `Lab1/`, `Lab2/LAB2/lab02_search_DaoDuyHung_3122410158/02_Notebooks/` hoặc `Lab3/Lab/lab03_localsearch_search_daoduyhung_3122410158/2_Notebooks/` và chạy lần lượt các cell. Với Lab 2, đặt thư mục làm việc tại `02_Notebooks` để notebook tìm thấy các tệp `.py` và `.txt` đi kèm. Với Lab 3, xem thêm tệp hỗ trợ trong `5_Supports/`.
+
+Các phụ thuộc chung cho Lab 3 được liệt kê trong [requirements.txt](Lab3/Lab/lab03_localsearch_search_daoduyhung_3122410158/5_Supports/requirements.txt):
+
+```bash
+pip install -r Lab3/Lab/lab03_localsearch_search_daoduyhung_3122410158/5_Supports/requirements.txt
+```
+
+Bài 6 cần thêm `numba`; Bài 7 cần thêm `scipy`. Xem README và requirements riêng trong từng thư mục bài giải để chạy lại các thí nghiệm.
 
 Với các bài có trực quan hóa hoặc ghi hình môi trường Gymnasium, notebook có thể cần thêm các phụ thuộc hiển thị phù hợp với hệ điều hành đang dùng.
 

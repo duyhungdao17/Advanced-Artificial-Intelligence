@@ -1,0 +1,17 @@
+﻿Mode,ORDER,seed,Stop,h(stop),Steps,Reached goal
+Fixed,NESW,—,"(5, 9)",6,8,False
+Fixed,ENWS,—,"(5, 9)",6,8,False
+Fixed,SENW,—,"(5, 9)",6,8,False
+Fixed,WSEN,—,"(5, 9)",6,8,False
+Fixed,NWSE,—,"(5, 9)",6,8,False
+Fixed,SNWE,—,"(5, 9)",6,8,False
+Randomized,NESW,0,"(5, 9)",6,8,False
+Randomized,NESW,1,"(5, 9)",6,8,False
+Randomized,NESW,2,"(5, 9)",6,8,False
+Randomized,NESW,3,"(5, 9)",6,8,False
+Randomized,NESW,4,"(5, 9)",6,8,False
+Randomized,NESW,5,"(5, 9)",6,8,False
+Randomized,NESW,6,"(5, 9)",6,8,False
+Randomized,NESW,7,"(5, 9)",6,8,False
+Randomized,NESW,8,"(5, 9)",6,8,False
+Randomized,NESW,9,"(5, 9)",6,8,False

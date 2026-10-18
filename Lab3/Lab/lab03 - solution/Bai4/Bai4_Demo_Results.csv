@@ -1,0 +1,9 @@
+n,case,algorithm,initial_f,best_f,success,runs,restarts_used,evaluations,steps,elapsed_ms,status,best_board
+4,4-Queens,Random Restart / steepest,1,0,True,1,0,13,1,0.16973400033748476,SOLVED,"[2, 0, 3, 1]"
+4,4-Queens,Random Restart / stochastic_all,1,0,True,1,0,13,1,0.08355599993592477,SOLVED,"[2, 0, 3, 1]"
+4,4-Queens,Random Restart / first_choice,1,0,True,1,0,4,1,0.04749100025946973,SOLVED,"[2, 0, 3, 1]"
+4,4-Queens,"Simulated Annealing (T0=3, alpha=.995)",1,0,True,1,0,53,41,0.8755130002100486,SOLVED,"[2, 0, 3, 1]"
+8,8-Queens,Random Restart / steepest,7,0,True,7,6,1743,25,11.764792000121815,SOLVED,"[5, 1, 6, 0, 3, 7, 4, 2]"
+8,8-Queens,Random Restart / stochastic_all,7,0,True,1,0,281,5,1.8906649997916247,SOLVED,"[4, 6, 0, 3, 1, 7, 5, 2]"
+8,8-Queens,Random Restart / first_choice,7,0,True,7,6,1387,43,16.159547999905044,SOLVED,"[5, 1, 6, 0, 3, 7, 4, 2]"
+8,8-Queens,"Simulated Annealing (T0=3, alpha=.995)",7,0,True,1,0,165,105,1.9537799998943228,SOLVED,"[5, 3, 6, 0, 2, 4, 1, 7]"

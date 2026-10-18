@@ -1,0 +1,7 @@
+n,case,algorithm,seed,initial_f,final_f,steps,evaluations,elapsed_ms,status,success,initial_board,final_board
+4,4-Queens random,Steepest-ascent,20261015,1,0,1,13,0.07004500002949499,SOLVED,True,"[3, 0, 3, 1]","[2, 0, 3, 1]"
+4,4-Queens random,Stochastic (all),20261015,1,0,1,13,0.09721599985823559,SOLVED,True,"[3, 0, 3, 1]","[2, 0, 3, 1]"
+4,4-Queens random,First-choice,20261015,1,0,1,11,0.06956400011404185,SOLVED,True,"[3, 0, 3, 1]","[2, 0, 3, 1]"
+8,8-Queens random,Steepest-ascent,20261015,7,1,3,225,1.6844360000050074,LOCAL_MINIMUM,False,"[6, 3, 2, 3, 1, 0, 5, 2]","[6, 3, 0, 4, 1, 5, 5, 2]"
+8,8-Queens random,Stochastic (all),20261015,7,1,6,393,2.58628000005956,LOCAL_MINIMUM,False,"[6, 3, 2, 3, 1, 0, 5, 2]","[6, 0, 2, 4, 1, 7, 5, 3]"
+8,8-Queens random,First-choice,20261015,7,1,5,226,2.389705000041431,TRY_LIMIT,False,"[6, 3, 2, 3, 1, 0, 5, 2]","[6, 4, 2, 7, 1, 3, 5, 0]"

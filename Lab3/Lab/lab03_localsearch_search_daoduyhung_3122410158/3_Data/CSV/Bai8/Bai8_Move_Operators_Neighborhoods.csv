@@ -1,0 +1,11 @@
+n,operator,neighbors,note
+8,random-row,56,exact for this board
+8,single-step,15,exact for this board
+8,column-swap,25,exact for this board
+8,dual-queen,1372,exact for this board
+8,adaptive,56,"upper bound, state-dependent"
+12,random-row,132,exact for this board
+12,single-step,19,exact for this board
+12,column-swap,61,exact for this board
+12,dual-queen,7986,exact for this board
+12,adaptive,132,"upper bound, state-dependent"

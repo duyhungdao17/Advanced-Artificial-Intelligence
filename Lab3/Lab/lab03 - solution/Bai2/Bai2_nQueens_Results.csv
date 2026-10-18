@@ -1,0 +1,4 @@
+﻿case,n,state,conflicts,n_neighbors,min_neighbor_conflicts,improving_neighbors,zero_conflict_neighbors
+4-Queens ngẫu nhiên,4,"[3, 0, 3, 1]",1,12,0,1,1
+4-Queens tham chiếu,4,"[1, 3, 0, 2]",0,12,1,0,0
+8-Queens ngẫu nhiên,8,"[6, 3, 2, 3, 1, 0, 5, 2]",7,56,4,17,0
