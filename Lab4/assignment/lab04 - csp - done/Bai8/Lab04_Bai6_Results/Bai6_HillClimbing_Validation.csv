@@ -1,0 +1,7 @@
+﻿n,algorithm,status,final_h,equal_neighbors_at_stop,improving_neighbors_at_stop,test_status
+4,Steepest-ascent,SOLVED,0,0,0,PASS
+4,Stochastic (all),LOCAL_MINIMUM,1,1,0,PASS
+4,First-choice,TRY_LIMIT,1,1,0,PASS
+8,Steepest-ascent,LOCAL_MINIMUM,1,1,0,PASS
+8,Stochastic (all),LOCAL_MINIMUM,1,4,0,PASS
+8,First-choice,TRY_LIMIT,2,8,0,PASS

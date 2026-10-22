@@ -1,0 +1,11 @@
+﻿n,algorithm,seed,final_h,status
+4,RR-Steepest,20261420,0,PASS
+4,RR-Stochastic,20261421,0,PASS
+4,RR-First-choice,20261422,0,PASS
+4,SA-Exponential,20261423,0,PASS
+4,SA-Linear,20261424,0,PASS
+8,RR-Steepest,20261820,0,PASS
+8,RR-Stochastic,20261821,0,PASS
+8,RR-First-choice,20261822,0,PASS
+8,SA-Exponential,20261823,0,PASS
+8,SA-Linear,20261824,1,PASS

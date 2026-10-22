@@ -1,0 +1,18 @@
+﻿test,status
+FC nghiệm 4 màu đồ thị gốc,PASS
+FC chứng minh 3 màu vô nghiệm trên đồ thị K4,PASS
+FC nguyên vẹn miền csp4,PASS
+FC restoration sau mọi DFS,PASS
+FC tam giác hai màu vô nghiệm,PASS
+FC phát hiện cắt miền,PASS
+FC khôi phục miền cả khi vô nghiệm,PASS
+"Min-Conflicts chỉ giảm xung đột, 4 màu",PASS
+"Min-Conflicts nhất quán status, 4 màu",PASS
+"Min-Conflicts trả đúng best_conflicts, 4 màu",PASS
+"Min-Conflicts chỉ giảm xung đột, 3 màu",PASS
+"Min-Conflicts nhất quán status, 3 màu",PASS
+"Min-Conflicts trả đúng best_conflicts, 3 màu",PASS
+"Trial 150 hàng, các seed chạy chung",PASS
+Mỗi nghiệm đều được kiểm tra,PASS
+8 ca kiểm thử Bài 2 vẫn đạt,PASS
+K4 cố định của Bài 1,PASS

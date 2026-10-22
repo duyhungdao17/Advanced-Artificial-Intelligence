@@ -1,0 +1,7 @@
+﻿domain,algorithm,n_vertices,n_edges,status,solved,COUNT,attempts,backtracks,pruned_values,steps,restarts,objective_evaluations,final_conflicts,elapsed_ms
+4 màu,MRV + LCV,10,21,SOLVED,True,11,10,0,,,,,0,0.26615
+4 màu,MRV + LCV + FC,10,21,SOLVED,True,11,10,0,20,,,,0,0.07789
+4 màu,Min-Conflicts,10,21,SOLVED,True,,,,,4,0,21,0,0.07372
+3 màu,MRV + LCV,10,21,UNSAT,False,34,33,34,,,,,,0.40169
+3 màu,MRV + LCV + FC,10,21,UNSAT,False,28,33,28,90,,,,,0.19464
+3 màu,Min-Conflicts,10,21,STUCK,False,,,,,18,7,150,2,0.34523

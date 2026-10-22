@@ -1,0 +1,181 @@
+﻿n,dataset,trial,algorithm,initial_h,final_h,steps,evaluations,elapsed_ms,status,solved
+4,random,0,Steepest-ascent,3,1,1,25,0.13482099984685192,LOCAL_MINIMUM,False
+4,random,0,Stochastic (all),3,2,1,25,0.11960199981331243,LOCAL_MINIMUM,False
+4,random,0,First-choice,3,1,2,42,0.5239360002633475,TRY_LIMIT,False
+4,random,1,Steepest-ascent,3,0,1,13,0.05643300028168596,SOLVED,True
+4,random,1,Stochastic (all),3,0,2,25,0.10748900012913509,SOLVED,True
+4,random,1,First-choice,3,0,2,26,0.2127220000147645,SOLVED,True
+4,random,2,Steepest-ascent,3,0,1,13,0.055021000207489124,SOLVED,True
+4,random,2,Stochastic (all),3,1,2,37,0.157094000314828,LOCAL_MINIMUM,False
+4,random,2,First-choice,3,0,3,24,0.1987680002457637,SOLVED,True
+4,random,3,Steepest-ascent,4,1,2,37,0.1506059998064302,LOCAL_MINIMUM,False
+4,random,3,Stochastic (all),4,0,3,37,0.15797600008227164,SOLVED,True
+4,random,3,First-choice,4,0,3,8,0.05438700009108288,SOLVED,True
+4,random,4,Steepest-ascent,3,0,1,13,0.05408400011219783,SOLVED,True
+4,random,4,Stochastic (all),3,0,3,37,0.1564039998811495,SOLVED,True
+4,random,4,First-choice,3,1,2,44,0.38353899981302675,TRY_LIMIT,False
+4,random,5,Steepest-ascent,5,1,2,37,0.14757500002815505,LOCAL_MINIMUM,False
+4,random,5,Stochastic (all),5,1,4,61,0.2610779997667123,LOCAL_MINIMUM,False
+4,random,5,First-choice,5,1,2,40,0.30037699980312027,TRY_LIMIT,False
+4,random,6,Steepest-ascent,3,1,2,37,0.14729400027135853,LOCAL_MINIMUM,False
+4,random,6,Stochastic (all),3,1,2,37,0.1515959997959726,LOCAL_MINIMUM,False
+4,random,6,First-choice,3,1,2,44,0.28523999981189263,TRY_LIMIT,False
+4,random,7,Steepest-ascent,3,0,1,13,0.05419799981609685,SOLVED,True
+4,random,7,Stochastic (all),3,0,1,13,0.057858000218402594,SOLVED,True
+4,random,7,First-choice,3,0,3,17,0.11409499984438298,SOLVED,True
+4,random,8,Steepest-ascent,2,1,1,25,0.09934599984262604,LOCAL_MINIMUM,False
+4,random,8,Stochastic (all),2,1,1,25,0.24096799961625948,LOCAL_MINIMUM,False
+4,random,8,First-choice,2,1,1,51,0.337133999892103,TRY_LIMIT,False
+4,random,9,Steepest-ascent,5,0,2,25,0.14037900018593064,SOLVED,True
+4,random,9,Stochastic (all),5,1,2,37,0.15293000024030334,LOCAL_MINIMUM,False
+4,random,9,First-choice,5,0,3,6,0.04172999979346059,SOLVED,True
+4,random,10,Steepest-ascent,2,2,0,13,0.12364499980321852,LOCAL_MINIMUM,False
+4,random,10,Stochastic (all),2,2,0,13,0.05245000011200318,LOCAL_MINIMUM,False
+4,random,10,First-choice,2,2,0,36,0.2372799999648123,TRY_LIMIT,False
+4,random,11,Steepest-ascent,3,2,1,25,0.13220999971963465,LOCAL_MINIMUM,False
+4,random,11,Stochastic (all),3,1,2,37,0.15298900007110205,LOCAL_MINIMUM,False
+4,random,11,First-choice,3,2,1,38,0.2482810000401514,TRY_LIMIT,False
+4,random,12,Steepest-ascent,1,1,0,13,0.05345399995348998,LOCAL_MINIMUM,False
+4,random,12,Stochastic (all),1,1,0,13,0.05318199964676751,LOCAL_MINIMUM,False
+4,random,12,First-choice,1,1,0,36,0.26630199999999604,TRY_LIMIT,False
+4,random,13,Steepest-ascent,6,0,3,37,0.14888100031384965,SOLVED,True
+4,random,13,Stochastic (all),6,0,4,49,0.20761499990840093,SOLVED,True
+4,random,13,First-choice,6,0,3,6,0.11635200007731328,SOLVED,True
+4,random,14,Steepest-ascent,3,1,1,25,0.10016699980042176,LOCAL_MINIMUM,False
+4,random,14,Stochastic (all),3,1,1,25,0.1318160002483637,LOCAL_MINIMUM,False
+4,random,14,First-choice,3,1,2,47,0.30441699982475257,TRY_LIMIT,False
+4,random,15,Steepest-ascent,4,1,1,25,0.10143899999093264,LOCAL_MINIMUM,False
+4,random,15,Stochastic (all),4,1,2,37,0.15416299993376015,LOCAL_MINIMUM,False
+4,random,15,First-choice,4,2,2,44,0.3282870002294658,TRY_LIMIT,False
+4,random,16,Steepest-ascent,4,1,2,37,0.14526199993269984,LOCAL_MINIMUM,False
+4,random,16,Stochastic (all),4,1,2,37,0.15125600020837737,LOCAL_MINIMUM,False
+4,random,16,First-choice,4,1,2,58,0.5428120002761716,TRY_LIMIT,False
+4,random,17,Steepest-ascent,4,1,1,25,0.10023300001194002,LOCAL_MINIMUM,False
+4,random,17,Stochastic (all),4,1,1,25,0.10528499979045591,LOCAL_MINIMUM,False
+4,random,17,First-choice,4,0,3,15,0.16132499968080083,SOLVED,True
+4,random,18,Steepest-ascent,3,0,2,25,0.10070300004372257,SOLVED,True
+4,random,18,Stochastic (all),3,1,1,25,0.10510900028748438,LOCAL_MINIMUM,False
+4,random,18,First-choice,3,0,2,21,0.16008800002964563,SOLVED,True
+4,random,19,Steepest-ascent,2,0,2,25,0.09992100012823357,SOLVED,True
+4,random,19,Stochastic (all),2,0,2,25,0.10587799988570623,SOLVED,True
+4,random,19,First-choice,2,0,2,7,0.05436999981611734,SOLVED,True
+4,random,20,Steepest-ascent,3,1,1,25,0.23890800002845936,LOCAL_MINIMUM,False
+4,random,20,Stochastic (all),3,0,3,37,0.15968900015650433,SOLVED,True
+4,random,20,First-choice,3,1,1,39,0.2844119999281247,TRY_LIMIT,False
+4,random,21,Steepest-ascent,4,0,3,37,0.1470900001550035,SOLVED,True
+4,random,21,Stochastic (all),4,0,3,37,0.19018600005438202,SOLVED,True
+4,random,21,First-choice,4,1,2,48,0.33463999989180593,TRY_LIMIT,False
+4,random,22,Steepest-ascent,3,1,1,25,0.10145499982172623,LOCAL_MINIMUM,False
+4,random,22,Stochastic (all),3,1,1,25,0.10512800008655176,LOCAL_MINIMUM,False
+4,random,22,First-choice,3,1,2,62,0.4064029999426566,TRY_LIMIT,False
+4,random,23,Steepest-ascent,2,2,0,13,0.05294400034472346,LOCAL_MINIMUM,False
+4,random,23,Stochastic (all),2,2,0,13,0.05230899978414527,LOCAL_MINIMUM,False
+4,random,23,First-choice,2,2,0,36,0.25416000016775797,TRY_LIMIT,False
+4,random,24,Steepest-ascent,2,0,1,13,0.053170999763096916,SOLVED,True
+4,random,24,Stochastic (all),2,0,1,13,0.05627800010188366,SOLVED,True
+4,random,24,First-choice,2,0,1,7,0.04662999981519533,SOLVED,True
+4,random,25,Steepest-ascent,6,1,3,49,0.19159900011800346,LOCAL_MINIMUM,False
+4,random,25,Stochastic (all),6,1,3,49,0.3842000000986445,LOCAL_MINIMUM,False
+4,random,25,First-choice,6,1,3,39,0.2565280001363135,TRY_LIMIT,False
+4,random,26,Steepest-ascent,4,0,3,37,0.14779899993300205,SOLVED,True
+4,random,26,Stochastic (all),4,0,4,49,0.39775300001565483,SOLVED,True
+4,random,26,First-choice,4,0,3,8,0.060401000155252405,SOLVED,True
+4,random,27,Steepest-ascent,4,0,3,37,0.18365899995842483,SOLVED,True
+4,random,27,Stochastic (all),4,1,3,49,0.20392600026752916,LOCAL_MINIMUM,False
+4,random,27,First-choice,4,0,4,7,0.04779800019605318,SOLVED,True
+4,random,28,Steepest-ascent,5,1,2,37,0.14808499963692157,LOCAL_MINIMUM,False
+4,random,28,Stochastic (all),5,0,3,37,0.5780639999102277,SOLVED,True
+4,random,28,First-choice,5,0,3,9,0.0628109996796411,SOLVED,True
+4,random,29,Steepest-ascent,3,1,1,25,0.10953399987556622,LOCAL_MINIMUM,False
+4,random,29,Stochastic (all),3,1,2,37,0.3066649996981141,LOCAL_MINIMUM,False
+4,random,29,First-choice,3,0,2,12,0.08327300020027906,SOLVED,True
+8,random,0,Steepest-ascent,10,2,3,225,3.4755720002976886,LOCAL_MINIMUM,False
+8,random,0,Stochastic (all),10,1,6,393,3.8051999999879627,LOCAL_MINIMUM,False
+8,random,0,First-choice,10,1,6,224,2.2563410002476303,TRY_LIMIT,False
+8,random,1,Steepest-ascent,7,1,3,225,1.7887030003294058,LOCAL_MINIMUM,False
+8,random,1,Stochastic (all),7,0,5,281,2.2479920003206644,SOLVED,True
+8,random,1,First-choice,7,1,6,254,5.95255099960923,TRY_LIMIT,False
+8,random,2,Steepest-ascent,6,2,2,169,1.190751000194723,LOCAL_MINIMUM,False
+8,random,2,Stochastic (all),6,2,4,281,2.5631029998294252,LOCAL_MINIMUM,False
+8,random,2,First-choice,6,0,5,88,0.8571899998059962,SOLVED,True
+8,random,3,Steepest-ascent,8,1,3,225,1.6356659998564282,LOCAL_MINIMUM,False
+8,random,3,Stochastic (all),8,1,5,337,2.3273870001503383,LOCAL_MINIMUM,False
+8,random,3,First-choice,8,1,7,258,2.7528509999683592,TRY_LIMIT,False
+8,random,4,Steepest-ascent,6,2,2,169,1.0614129996611155,LOCAL_MINIMUM,False
+8,random,4,Stochastic (all),6,3,3,225,1.5851469997869572,LOCAL_MINIMUM,False
+8,random,4,First-choice,6,1,4,179,1.7424950001441175,TRY_LIMIT,False
+8,random,5,Steepest-ascent,5,1,3,225,2.0179989996904624,LOCAL_MINIMUM,False
+8,random,5,Stochastic (all),5,1,4,281,1.9786819998444116,LOCAL_MINIMUM,False
+8,random,5,First-choice,5,1,3,218,2.6066240002364793,TRY_LIMIT,False
+8,random,6,Steepest-ascent,8,2,2,169,1.967777000118076,LOCAL_MINIMUM,False
+8,random,6,Stochastic (all),8,2,5,337,3.535438000199065,LOCAL_MINIMUM,False
+8,random,6,First-choice,8,3,3,207,2.232470999842917,TRY_LIMIT,False
+8,random,7,Steepest-ascent,8,1,3,225,1.826282999900286,LOCAL_MINIMUM,False
+8,random,7,Stochastic (all),8,2,5,337,3.147255000385485,LOCAL_MINIMUM,False
+8,random,7,First-choice,8,1,5,240,2.4617459998808044,TRY_LIMIT,False
+8,random,8,Steepest-ascent,6,0,4,225,1.8223510001007526,SOLVED,True
+8,random,8,Stochastic (all),6,0,5,281,2.792140000110521,SOLVED,True
+8,random,8,First-choice,6,1,4,367,3.6916270000801887,TRY_LIMIT,False
+8,random,9,Steepest-ascent,10,1,4,281,1.80110200017225,LOCAL_MINIMUM,False
+8,random,9,Stochastic (all),10,1,7,449,2.908601999934035,LOCAL_MINIMUM,False
+8,random,9,First-choice,10,1,7,277,3.12642099970617,TRY_LIMIT,False
+8,random,10,Steepest-ascent,7,1,3,225,1.7777639995983918,LOCAL_MINIMUM,False
+8,random,10,Stochastic (all),7,2,5,337,2.28256499985946,LOCAL_MINIMUM,False
+8,random,10,First-choice,7,1,5,401,3.6702099996546167,TRY_LIMIT,False
+8,random,11,Steepest-ascent,6,1,3,225,1.7435709996789228,LOCAL_MINIMUM,False
+8,random,11,Stochastic (all),6,1,3,225,1.6015609999158187,LOCAL_MINIMUM,False
+8,random,11,First-choice,6,2,4,206,2.1063209997009835,TRY_LIMIT,False
+8,random,12,Steepest-ascent,5,0,3,169,1.2644690000342962,SOLVED,True
+8,random,12,Stochastic (all),5,1,3,225,1.9169479996890004,LOCAL_MINIMUM,False
+8,random,12,First-choice,5,0,3,75,0.8564489999116631,SOLVED,True
+8,random,13,Steepest-ascent,7,2,3,225,1.5369190000456001,LOCAL_MINIMUM,False
+8,random,13,Stochastic (all),7,2,5,337,2.35774400016453,LOCAL_MINIMUM,False
+8,random,13,First-choice,7,0,4,34,0.4834709998249309,SOLVED,True
+8,random,14,Steepest-ascent,13,2,4,281,3.2724019997658615,LOCAL_MINIMUM,False
+8,random,14,Stochastic (all),13,0,9,505,3.890262999902916,SOLVED,True
+8,random,14,First-choice,13,2,5,184,1.6706490000615304,TRY_LIMIT,False
+8,random,15,Steepest-ascent,9,0,4,225,1.974598000288097,SOLVED,True
+8,random,15,Stochastic (all),9,0,5,281,1.9891130000360135,SOLVED,True
+8,random,15,First-choice,9,1,5,187,2.2913259999768343,TRY_LIMIT,False
+8,random,16,Steepest-ascent,9,2,4,281,2.5573489997441357,LOCAL_MINIMUM,False
+8,random,16,Stochastic (all),9,1,5,337,2.9296519996933057,LOCAL_MINIMUM,False
+8,random,16,First-choice,9,2,5,179,2.136191000317922,TRY_LIMIT,False
+8,random,17,Steepest-ascent,8,1,4,281,2.1254700000099547,LOCAL_MINIMUM,False
+8,random,17,Stochastic (all),8,3,5,337,2.7716429999600223,LOCAL_MINIMUM,False
+8,random,17,First-choice,8,1,6,255,4.1166709997924045,TRY_LIMIT,False
+8,random,18,Steepest-ascent,9,1,3,225,1.5061440003591997,LOCAL_MINIMUM,False
+8,random,18,Stochastic (all),9,2,7,449,3.3315820001007523,LOCAL_MINIMUM,False
+8,random,18,First-choice,9,1,6,202,2.9397890002655913,TRY_LIMIT,False
+8,random,19,Steepest-ascent,6,0,4,225,2.1246979999887117,SOLVED,True
+8,random,19,Stochastic (all),6,1,5,337,2.637809000134439,LOCAL_MINIMUM,False
+8,random,19,First-choice,6,3,2,174,3.546944000390795,TRY_LIMIT,False
+8,random,20,Steepest-ascent,9,1,4,281,1.8577339997136733,LOCAL_MINIMUM,False
+8,random,20,Stochastic (all),9,2,5,337,2.4573359996793442,LOCAL_MINIMUM,False
+8,random,20,First-choice,9,2,3,176,2.098336000017298,TRY_LIMIT,False
+8,random,21,Steepest-ascent,9,1,3,225,2.191268999922613,LOCAL_MINIMUM,False
+8,random,21,Stochastic (all),9,1,7,449,3.7198130003162078,LOCAL_MINIMUM,False
+8,random,21,First-choice,9,2,6,179,1.913667999815516,TRY_LIMIT,False
+8,random,22,Steepest-ascent,13,3,3,225,1.7750960000739724,LOCAL_MINIMUM,False
+8,random,22,Stochastic (all),13,1,7,449,3.6801169999307604,LOCAL_MINIMUM,False
+8,random,22,First-choice,13,1,7,243,2.7733689998967748,TRY_LIMIT,False
+8,random,23,Steepest-ascent,8,0,4,225,1.5164850001383456,SOLVED,True
+8,random,23,Stochastic (all),8,1,6,393,2.7351740000085556,LOCAL_MINIMUM,False
+8,random,23,First-choice,8,0,6,150,2.028969000093639,SOLVED,True
+8,random,24,Steepest-ascent,6,1,3,225,1.8674840002859128,LOCAL_MINIMUM,False
+8,random,24,Stochastic (all),6,1,4,281,2.131503000327939,LOCAL_MINIMUM,False
+8,random,24,First-choice,6,2,4,200,2.63152799971067,TRY_LIMIT,False
+8,random,25,Steepest-ascent,6,2,3,225,1.9999370001642092,LOCAL_MINIMUM,False
+8,random,25,Stochastic (all),6,1,5,337,3.085795000060898,LOCAL_MINIMUM,False
+8,random,25,First-choice,6,0,5,105,1.154521999978897,SOLVED,True
+8,random,26,Steepest-ascent,10,3,3,225,1.705336999748397,LOCAL_MINIMUM,False
+8,random,26,Stochastic (all),10,0,8,449,3.9170489999378333,SOLVED,True
+8,random,26,First-choice,10,1,7,212,2.4185180000131368,TRY_LIMIT,False
+8,random,27,Steepest-ascent,11,2,3,225,1.6086619998532115,LOCAL_MINIMUM,False
+8,random,27,Stochastic (all),11,1,8,505,4.115207999802806,LOCAL_MINIMUM,False
+8,random,27,First-choice,11,1,7,246,2.3119160000533157,TRY_LIMIT,False
+8,random,28,Steepest-ascent,6,1,3,225,1.5339200003836595,LOCAL_MINIMUM,False
+8,random,28,Stochastic (all),6,2,3,225,1.4599229998566443,LOCAL_MINIMUM,False
+8,random,28,First-choice,6,1,5,246,2.7797749999081134,TRY_LIMIT,False
+8,random,29,Steepest-ascent,5,2,2,169,1.1291260002508352,LOCAL_MINIMUM,False
+8,random,29,Stochastic (all),5,2,3,225,1.5347300000030373,LOCAL_MINIMUM,False
+8,random,29,First-choice,5,1,4,237,2.494728000328905,TRY_LIMIT,False

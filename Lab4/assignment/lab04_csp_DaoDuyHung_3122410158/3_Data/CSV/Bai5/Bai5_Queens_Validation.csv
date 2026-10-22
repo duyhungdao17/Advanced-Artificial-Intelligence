@@ -1,0 +1,3 @@
+﻿test,tested_boards,count_mismatches,zero_equivalence_mismatches,status
+4-Queens toàn bộ,256,0,0,PASS
+8-Queens lấy mẫu,500,0,0,PASS

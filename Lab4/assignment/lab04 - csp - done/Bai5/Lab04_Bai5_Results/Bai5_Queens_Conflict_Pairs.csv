@@ -1,0 +1,5 @@
+﻿case,n,h_conflicts,attacking_column_pairs
+4-Queens ngẫu nhiên,4,3,"[(0, 1), (0, 3), (1, 3)]"
+"4-Queens mẫu [1,3,0,2]",4,0,[]
+8-Queens ngẫu nhiên,8,5,"[(0, 5), (0, 6), (1, 2), (4, 6), (4, 7)]"
+8-Queens đối chứng hợp lệ,8,0,[]

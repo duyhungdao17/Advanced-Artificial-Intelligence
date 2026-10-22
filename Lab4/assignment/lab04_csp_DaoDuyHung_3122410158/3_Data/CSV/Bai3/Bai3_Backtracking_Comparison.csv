@@ -1,0 +1,7 @@
+﻿domain,algorithm,n_vertices,n_edges,colors,solved,COUNT_nodes,attempts,backtracks,max_depth,median_elapsed_ms,mean_elapsed_ms,repeat_count
+4 màu,Baseline,10,21,4,True,11,23,0,10,0.071371,0.097558,20
+4 màu,MRV,10,21,4,True,11,24,0,10,0.09136,0.115702,20
+4 màu,MRV + LCV,10,21,4,True,11,10,0,10,0.113582,0.159579,20
+3 màu,Baseline,10,21,3,False,70,210,70,7,0.573608,0.685376,20
+3 màu,MRV,10,21,3,False,34,102,34,6,0.349012,0.505363,20
+3 màu,MRV + LCV,10,21,3,False,34,33,34,6,0.423543,0.668229,20

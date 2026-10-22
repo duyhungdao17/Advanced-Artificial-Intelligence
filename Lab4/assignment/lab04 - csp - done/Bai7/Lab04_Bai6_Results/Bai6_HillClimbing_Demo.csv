@@ -1,0 +1,7 @@
+﻿n,dataset,trial,algorithm,initial_h,final_h,steps,evaluations,elapsed_ms,status,solved
+4,demo,0,Steepest-ascent,3,0,2,25,0.9378210002068954,SOLVED,True
+4,demo,0,Stochastic (all),3,0,2,25,0.17396000021108193,SOLVED,True
+4,demo,0,First-choice,3,2,1,38,0.3643420000116748,TRY_LIMIT,False
+8,demo,0,Steepest-ascent,5,1,3,225,1.616244999695482,LOCAL_MINIMUM,False
+8,demo,0,Stochastic (all),5,1,4,281,2.098083999953815,LOCAL_MINIMUM,False
+8,demo,0,First-choice,5,1,4,325,3.634105999935855,TRY_LIMIT,False

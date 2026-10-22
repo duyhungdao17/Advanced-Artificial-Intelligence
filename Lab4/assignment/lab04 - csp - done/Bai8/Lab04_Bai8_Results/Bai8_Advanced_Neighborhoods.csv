@@ -1,0 +1,11 @@
+﻿n,operator,one_step_neighborhood
+8,random-row,8(8-1)=56
+8,single-step,giữa 8 và 16 (phụ thuộc hàng)
+8,column-swap,"C(8,2)=28 (có thể tạo bản sao)"
+8,dual-queen,"C(8,2)×(8-1)^2=1372"
+8,adaptive,phụ thuộc trạng thái và cách chọn cột
+12,random-row,12(12-1)=132
+12,single-step,giữa 12 và 24 (phụ thuộc hàng)
+12,column-swap,"C(12,2)=66 (có thể tạo bản sao)"
+12,dual-queen,"C(12,2)×(12-1)^2=7986"
+12,adaptive,phụ thuộc trạng thái và cách chọn cột

@@ -7,9 +7,9 @@ Repository lưu trữ bài tập theo tuần của học phần **Trí tuệ nh�
 
 ## Mục tiêu học tập
 
-Các bài thực hành trong repository tập trung vào **tác tử thông minh** và **giải quyết vấn đề bằng tìm kiếm**. Nội dung gồm quan sát môi trường, lựa chọn hành động, so sánh chiến lược tìm kiếm và đánh giá hiệu năng; đây là nền tảng cho các chủ đề nâng cao hơn như học tăng cường (*reinforcement learning*).
+Các bài thực hành trong repository tập trung vào **tác tử thông minh**, **giải quyết vấn đề bằng tìm kiếm** và **bài toán thỏa mãn ràng buộc (CSP)**. Nội dung gồm quan sát môi trường, lựa chọn hành động, so sánh chiến lược tìm kiếm và đánh giá hiệu năng; đây là nền tảng cho các chủ đề nâng cao hơn như học tăng cường (*reinforcement learning*).
 
-> Lưu ý: Repository hiện có các bài về tác tử và thuật toán tìm kiếm; chưa bao gồm các thuật toán học tăng cường như Q-learning hoặc DQN.
+> Lưu ý: Repository hiện có các bài về tác tử, thuật toán tìm kiếm và CSP; chưa bao gồm các thuật toán học tăng cường như Q-learning hoặc DQN.
 
 ## Cấu trúc repository
 
@@ -50,6 +50,17 @@ Các bài thực hành trong repository tập trung vào **tác tử thông minh
 │           ├── 3_Data/
 │           ├── 4_Images/
 │           └── 5_Supports/
+├── Lab4/
+│   ├── Theory/                       # Bài tập cây trò chơi
+│   └── assignment/
+│       ├── lab04 - csp/              # Notebook mẫu
+│       ├── lab04 - csp - done/       # Lời giải Bài 1–8
+│       └── lab04_csp_DaoDuyHung_3122410158/
+│           ├── 1_Report/
+│           ├── 2_Notebooks/
+│           ├── 3_Data/
+│           ├── 4_Images/
+│           └── 5_Supports/
 ├── Artificial Intelligence A Modern Approach 4th.pdf
 └── 2024 - Liu - AlphaGo Simplified Rule-Based AI and Deep Learning in Everyday Games.pdf
 ```
@@ -78,6 +89,12 @@ Các bài thực hành trong repository tập trung vào **tác tử thông minh
 - **Theory:** bài tập về bài toán thỏa mãn ràng buộc (CSP).
 - **Lab:** áp dụng tìm kiếm cục bộ cho mê cung, n-Queens và bài toán người du lịch (TSP); thực nghiệm hill climbing, random restart, simulated annealing và các lịch giảm nhiệt.
 - [Bài làm tổng hợp](Lab3/Lab/lab03_localsearch_search_daoduyhung_3122410158/) gồm báo cáo PDF, notebook, dữ liệu CSV, biểu đồ và tệp hỗ trợ. [Lời giải từng bài](Lab3/Lab/lab03%20-%20solution/) nằm trong các thư mục `Bai1` đến `Bai8`.
+
+### Lab 4 — Constraint Satisfaction Problems
+
+- **Theory:** bài tập về cây trò chơi và bài giải dạng PDF.
+- **Assignment:** mô hình hóa CSP để tô màu đồ thị bằng backtracking; thực hành n-Queens với hill climbing, random restart và simulated annealing.
+- [Bài làm tổng hợp](Lab4/assignment/lab04_csp_DaoDuyHung_3122410158/) gồm báo cáo PDF, notebook, dữ liệu CSV, biểu đồ và tệp hỗ trợ. [Lời giải từng bài](Lab4/assignment/lab04%20-%20csp%20-%20done/) nằm trong các thư mục `Bai1` đến `Bai8`.
 
 ## Yêu cầu môi trường
 
@@ -115,6 +132,14 @@ pip install -r Lab3/Lab/lab03_localsearch_search_daoduyhung_3122410158/5_Support
 ```
 
 Bài 6 cần thêm `numba`; Bài 7 cần thêm `scipy`. Xem README và requirements riêng trong từng thư mục bài giải để chạy lại các thí nghiệm.
+
+Với Lab 4, mở notebook trong `Lab4/assignment/lab04_csp_DaoDuyHung_3122410158/2_Notebooks/`. Để chạy lời giải Bài 8 và xem kết quả thực nghiệm, cài các thư viện từ tệp yêu cầu của bài:
+
+```bash
+pip install -r "Lab4/assignment/lab04 - csp - done/Bai8/requirements.txt"
+```
+
+Các bài khác có README và `requirements.txt` riêng trong từng thư mục `Bai1` đến `Bai8`.
 
 Với các bài có trực quan hóa hoặc ghi hình môi trường Gymnasium, notebook có thể cần thêm các phụ thuộc hiển thị phù hợp với hệ điều hành đang dùng.
 

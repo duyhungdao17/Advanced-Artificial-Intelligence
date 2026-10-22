@@ -1,0 +1,11 @@
+﻿n,trial,algorithm,initial_h,final_h,solved,status,steps,evaluations,elapsed_ms,runs,restarts_used,accepted_worse
+4,0,RR-Steepest,3,0,True,SOLVED,2,25,0.30988900016382104,1,0,0
+4,0,RR-Stochastic,3,0,True,SOLVED,10,199,1.6299509998134454,7,6,0
+4,0,RR-First-choice,3,0,True,SOLVED,3,42,0.42733600002975436,2,1,0
+4,0,SA-Exponential,3,0,True,SOLVED,35,38,0.45389199931378243,1,0,11
+4,0,SA-Linear,3,0,True,SOLVED,7,13,0.1216690006913268,1,0,1
+8,0,RR-Steepest,5,0,True,SOLVED,31,2250,18.06574600050226,10,9,0
+8,0,RR-Stochastic,5,0,True,SOLVED,3,169,2.271786000164866,1,0,0
+8,0,RR-First-choice,5,0,True,SOLVED,20,624,6.903326999236015,3,2,0
+8,0,SA-Exponential,5,0,True,SOLVED,214,443,6.247897000321245,1,0,58
+8,0,SA-Linear,5,1,False,ITERATION_LIMIT,821,2001,22.97726100005093,1,0,234

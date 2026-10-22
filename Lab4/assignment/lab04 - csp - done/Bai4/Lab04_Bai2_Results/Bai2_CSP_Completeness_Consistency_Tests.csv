@@ -1,0 +1,9 @@
+﻿test_case,description,domain_colors,assigned_vertices,expected_complete,actual_complete,expected_consistent,actual_consistent,domain_valid,expected_solution,actual_solution,violating_edges,result
+TC01,Phép gán rỗng,4,0,False,False,True,True,True,False,False,0,PASS
+TC02,Một đỉnh được gán,4,1,False,False,True,True,True,False,False,0,PASS
+TC03,Hai đỉnh kề khác màu,4,2,False,False,True,True,True,False,False,0,PASS
+TC04,Hai đỉnh kề cùng màu,4,2,False,False,False,False,True,False,False,1,PASS
+TC05,Đầy đủ nhưng tất cả màu đỏ,4,10,True,True,False,False,True,False,False,21,PASS
+TC06,Đầy đủ và hợp lệ (4 màu),4,10,True,True,True,True,True,True,True,0,PASS
+TC07,"Đầy đủ, màu ngoài miền",4,10,True,True,True,True,False,False,False,0,PASS
+TC08,Đầy đủ 3 màu nhưng vi phạm cạnh,3,10,True,True,False,False,True,False,False,3,PASS
